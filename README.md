@@ -77,6 +77,8 @@ Keep in mind that companies may have job postings on their own site that are not
 #### [Coeuraj](https://www.coeuraj.com/careers)
 
 #### [Course Studio](https://course.studio/careers) (👩‍💻 Co-Op / Intern Friendly)
+- [Full-stack Engineering Lead](https://coursestudio.applytojobs.ca/development/32759)
+- [Senior Full-stack Developer](https://coursestudio.applytojobs.ca/development/32763)
 
 #### [Crowdcontent](https://www.crowdcontent.com/)
 
